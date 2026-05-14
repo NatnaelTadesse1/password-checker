@@ -1,6 +1,5 @@
 # password-checker
 
-
 A simple, responsive web application that evaluates the strength of a user-provided password based on specific security criteria.
 
 ## Features
